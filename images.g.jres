@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//DwAAAAAAf98PAAAAAAB//w8AAP////////8P7y3yd/eI7w/f3fJ39///D9/d8nf3//8P7y3yd/eI7w//////////DwAAAH//DwAAAAAAf98PAAAAAAD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

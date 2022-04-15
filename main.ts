@@ -1,1 +1,6 @@
-
+tiles.loadMap(tiles.createMap(tilemap`home`))
+let pet_carer = sprites.create(assets.image`player`, SpriteKind.Player)
+controller.moveSprite(pet_carer)
+scene.cameraFollowSprite(pet_carer)
+tiles.placeOnRandomTile(pet_carer, assets.tile`myTile0`)
+tiles.coverAllTiles(assets.tile`myTile0`, assets.tile`myTile`)
